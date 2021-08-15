@@ -8,7 +8,7 @@ Contact ShadeBlade#1198 on Discord to report bugs and problems.
 ### **New content includes...**
 - 31 new badges
 - 7 new items
-- 38 new maps
+- 55 new maps
 - Pit of 100 trials
 - Boss rush
 - New enemy mechanics
@@ -18,6 +18,11 @@ Contact ShadeBlade#1198 on Discord to report bugs and problems.
 - Various visual and quality of life changes
 - And more!
 
-### Version 0.8 (beta)
+### Version 0.9 (beta)
 This is the first released version of the mod.
 I've removed bugs I've encountered, but you may find some bugs while playing. In addition to that, badges, enemies and bosses may not be very balanced in this version.
+
+### Known bugs
+- Some Pit minibosses will permanently change the colors of Watt's electrical spark effects
+- Some rotating platforms in the final area are intangible, making the rooms impossible to complete without cheats
+- Beating the final boss crashes the game when it fades into the overworld
