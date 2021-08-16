@@ -21,8 +21,10 @@ Contact ShadeBlade#1198 on Discord to report bugs and problems.
 ### Version 0.9 (beta)
 This is the first released version of the mod.
 I've removed bugs I've encountered, but you may find some bugs while playing. In addition to that, badges, enemies and bosses may not be very balanced in this version.
+Make sure to contact me if you find bugs or problems, or if have feedback about unbalanced badges or enemies.
+Unfortunately, due to two bugs (see below) that I do not know how to fix right now, the final area is impossible to complete in this version.
 
 ### Known bugs
 - Some Pit minibosses will permanently change the colors of Watt's electrical spark effects
-- Some rotating platforms in the final area are intangible, making the rooms impossible to complete without cheats
-- Beating the final boss crashes the game when it fades into the overworld
+- Some rotating platforms in the final area are intangible, making the rooms with them impossible to complete without cheats
+- Beating the final boss crashes the game when it fades into the overworld (Problem related to the music)
