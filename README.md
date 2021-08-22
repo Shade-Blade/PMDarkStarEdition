@@ -7,7 +7,7 @@ Contact ShadeBlade#1198 on Discord to report bugs and problems.
 
 ### **New content includes...**
 - 33 new badges
-- 7 new items
+- 6 new items
 - 55 new maps
 - Pit of 100 trials
 - Boss rush
