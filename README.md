@@ -18,15 +18,16 @@ Contact ShadeBlade#1198 on Discord to report bugs and problems.
 - Various visual and quality of life changes
 - And more!
 
-### Version 0.9 
-This is the first released version of the mod.
+### Bug Reporting
 I've removed bugs I've encountered, but you may find some bugs while playing. In addition to that, badges, enemies and bosses may not be very balanced in this version.
 Make sure to contact me if you find bugs or problems, or if you have feedback about unbalanced badges or enemies.
 
 ### Known Bugs
 - Save blocks will not be the right color when you load from save (unpausing will fix this)
 - Clefts turn weird colors when attacking
-- Initial Refresh description (in chapter 1) has bad formatting
-- Dry Bubbles and Red Paragoombas have wrong tattles
-- Dizzy Attack is useless
-- 5 endgame badges do not have correct Merluvlee information
+
+### v0.9.0.1 bug fixes
+- Bombing Boos no longer crashes the game
+- Dizzy Attack is useful again
+- Endgame badges have correct Merluvlee information
+- Some text fixes
