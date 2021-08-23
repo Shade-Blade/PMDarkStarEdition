@@ -7,7 +7,7 @@ Contact ShadeBlade#1198 on Discord to report bugs and problems.
 
 ### **New content includes...**
 - 33 new badges
-- 6 new items
+- 7 new items
 - 55 new maps
 - Pit of 100 trials
 - Boss rush
@@ -22,3 +22,8 @@ Contact ShadeBlade#1198 on Discord to report bugs and problems.
 This is the first released version of the mod.
 I've removed bugs I've encountered, but you may find some bugs while playing. In addition to that, badges, enemies and bosses may not be very balanced in this version.
 Make sure to contact me if you find bugs or problems, or if you have feedback about unbalanced badges or enemies.
+
+### Known Bugs
+- Save blocks will not be the right color when you load from save (unpausing will fix this)
+- Clefts turn weird colors when attacking
+- Initial Refresh description (in chapter 1) has bad formatting
