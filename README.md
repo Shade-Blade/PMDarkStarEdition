@@ -27,3 +27,6 @@ Make sure to contact me if you find bugs or problems, or if you have feedback ab
 - Save blocks will not be the right color when you load from save (unpausing will fix this)
 - Clefts turn weird colors when attacking
 - Initial Refresh description (in chapter 1) has bad formatting
+- Dry Bubbles and Red Paragoombas have wrong tattles
+- Dizzy Attack is useless
+- 5 endgame badges do not have correct Merluvlee information
