@@ -31,3 +31,4 @@ Make sure to contact me if you find bugs or problems, or if you have feedback ab
 - Dizzy Attack is useful again
 - Endgame badges have correct Merluvlee information
 - Some text fixes
+- Shrink Stomp should no longer be broken
