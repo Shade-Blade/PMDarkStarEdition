@@ -25,6 +25,7 @@ Make sure to contact me if you find bugs or problems, or if you have feedback ab
 ### Known Bugs
 - Save blocks will not be the right color when you load from save (unpausing will fix this)
 - Clefts turn weird colors when attacking
+- Mario's attacks are unaffected by dizziness (but you still can't block)
 
 ### v0.9.0.1 Bug Fixes
 - Bombing Boos no longer crashes the game
