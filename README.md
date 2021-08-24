@@ -27,6 +27,7 @@ Some rooms may have an unpausing crash (caused by a lack of a background) (In ro
 - Save blocks will not be the right color when you load from save (unpausing will fix this)
 - Clefts turn weird colors when attacking
 - An NPC in the cave area doesn't have the right effects
+- Major bug: If you enter the fight with Master 4 and then load a savestate outside, save blocks will no longer function correctly (Getting a game over or reloading the file will work properly)
 
 
 ### v0.9.0.3 Changes
