@@ -21,11 +21,19 @@ Contact ShadeBlade#1198 on Discord to report bugs and problems.
 ### Bug Reporting
 I've removed bugs I've encountered, but you may find some bugs while playing. In addition to that, badges, enemies and bosses may not be very balanced in this version.
 Make sure to contact me if you find bugs or problems, or if you have feedback about unbalanced badges or enemies.
+Some rooms may have an unpausing crash (caused by a lack of a background) (In rooms affected by this, displaying the badge menu then unpausing will crash. Let me know if rooms have this problem)
 
 ### Known Bugs
 - Save blocks will not be the right color when you load from save (unpausing will fix this)
 - Clefts turn weird colors when attacking
+- An NPC in the cave area doesn't have the right effects
 
-### v0.9.0.2 Bug Fixes
-- Mario's attacks now miss when he's dizzy like they're supposed to
-- Fixed an unpausing crash in the room with the Calculator (In rooms affected by this, displaying the badge menu then unpausing will crash. Let me know if other rooms have this problem)
+
+### v0.9.0.3 Changes
+- Frigid Stomp is no longer broken
+- It should no longer be possible to go around Robotoad (Note: The cave will have no enemies in it before chapter 8 to prevent easy grinding)
+- Ruined city center has different tattle before the bridge is activated (original one is kind of misleading)
+- Pit rest floor fights should no longer fight immediately after entering the room
+- Remedy Guy and Practitioner Guy tattles are fixed
+- Mega Rush encounter no longer crashes
+- Floor 21 and Floor 22 of the Pit now have Red Goombas instead of Monty Moles
