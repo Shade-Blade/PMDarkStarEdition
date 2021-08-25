@@ -29,11 +29,13 @@ Some rooms may have an unpausing crash (caused by a lack of a background) (In ro
 - An NPC in the cave area doesn't have the right effects
 
 
-### v0.9.0.3 Changes
-- Frigid Stomp is no longer broken
-- It should no longer be possible to go around Robotoad (Note: The cave will have no enemies in it before chapter 8 to prevent easy grinding)
-- Ruined city center has different tattle before the bridge is activated (original one is kind of misleading)
-- Pit rest floor fights should no longer fight immediately after entering the room
-- Remedy Guy and Practitioner Guy tattles are fixed
-- Mega Rush encounter no longer crashes
-- Floor 21 and Floor 22 of the Pit now have Red Goombas instead of Monty Moles
+### v0.9.0.4 Changes
+- Item counter is now inside the stats bar (Let me know if the status bar still looks off)
+- One of Lee's forms now has the correct actor ID
+- Another unpausing map crash fixed (dry dry outpost)
+- Boss rush options display properly with 3 options
+- Red Bones have corrected name and tattle
+- Dry Dry Ruins no longer removes FP every turn (the initial description of 2/3 turns is now correct)
+- Dark Beetle tattle is more informative
+- Red Bones no longer crash when first striking
+- Poison Fuzzy on the stairs in Tubba's Castle actually works
