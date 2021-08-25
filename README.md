@@ -30,7 +30,6 @@ Some rooms may have an unpausing crash (caused by a lack of a background) (In ro
 - Major bug: If you enter the fight with Master 4 and then load a savestate outside, save blocks will no longer function correctly (Getting a game over or reloading the file will work properly)
 
 
-<<<<<<< HEAD
 ### v0.9.0.4 Changes
 - Item counter is now inside the stats bar (Let me know if the status bar still looks off)
 - One of Lee's forms now has the correct actor ID
@@ -41,8 +40,8 @@ Some rooms may have an unpausing crash (caused by a lack of a background) (In ro
 - Dark Beetle tattle is more informative
 - Red Bones no longer crash when first striking
 - Poison Fuzzy on the stairs in Tubba's Castle actually works
-=======
-### v0.9.0.3 Changes
+
+### v0.9.0.4 Changes
 - Frigid Stomp is no longer broken
 - It should no longer be possible to go around Robotoad (Note: The cave will have no enemies in it before chapter 8 to prevent easy grinding)
 - Ruined city center has different tattle before the bridge is activated (original one is kind of misleading)
@@ -50,4 +49,3 @@ Some rooms may have an unpausing crash (caused by a lack of a background) (In ro
 - Remedy Guy and Practitioner Guy tattles are fixed
 - Mega Rush encounter no longer crashes
 - Floor 21 and Floor 22 of the Pit now have Red Goombas instead of Monty Moles
->>>>>>> 9445c009dc841d1de971771683d0eba224df987f
