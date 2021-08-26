@@ -30,9 +30,10 @@ Some rooms may have an unpausing crash (caused by a lack of a background) (In ro
 - Major bug: If you enter the fight with Master 4 and then load a savestate outside, save blocks will no longer function correctly (Getting a game over or reloading the file will work properly)
 
 
-### v0.9.0.5 Changes
-- No longer possible to softlock yourself in the room with the helical platform
-- Dry Dry Outpost map should no longer crash
-- Frigid Stomp description and arrow have been corrected
-- (new area) Mayor text better explains what you need to do
-- (new area) Doorways are marked so you don't have to feel around for the doors
+### v0.9.0.6 Changes
+- (new area) Doorways are actually marked when you're inside the buildings
+- (new area) Boss required to enter the cave city shouldn't appear again when you defeat it (flag should be set properly)
+- (Temple of Darkness) Should no longer be possible to softlock yourself in the rooms with red/blue switches
+- Icons of Mega Saver and Last Chance are swapped (overworld sprites are correct)
+- Ice bolt-like moves should no longer crash when it misses (*Crash was inconsistent due to uninitialized values)
+- Respawning items should no longer crash when you get them
