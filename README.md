@@ -21,19 +21,17 @@ Contact ShadeBlade#1198 on Discord to report bugs and problems.
 ### Bug Reporting
 I've removed bugs I've encountered, but you may find some bugs while playing. In addition to that, badges, enemies and bosses may not be very balanced in this version.
 Make sure to contact me if you find bugs or problems, or if you have feedback about unbalanced badges or enemies.
-Some rooms may have an unpausing crash (caused by a lack of a background) (In rooms affected by this, displaying the badge menu then unpausing will crash. Let me know if rooms have this problem)
+Some rooms may have an unpausing crash (background may be glitched in them) (In rooms affected by this, displaying the badge menu then unpausing will crash. Let me know if you find rooms with this problem)
 
 ### Known Bugs
 - Save blocks will not be the right color when you load from save (unpausing will fix this)
 - Clefts turn weird colors when attacking
 - An NPC in the cave area doesn't have the right effects
-- Major bug: If you enter the fight with Master 4 and then load a savestate outside, save blocks may no longer function correctly (Getting a game over or reloading the file will work properly) (Note: Save blocks will appear to work, just that the actual saving will fail)
 
-
-### v0.9.0.6 Changes
-- (new area) Doorways are actually marked when you're inside the buildings
-- (new area) Boss required to enter the cave city shouldn't appear again when you defeat it (flag should be set properly)
-- (Temple of Darkness) Should no longer be possible to softlock yourself in the rooms with red/blue switches
-- Icons of Mega Saver and Last Chance are swapped (overworld sprites are correct)
-- Ice bolt-like moves should no longer crash when it misses (*Crash was inconsistent due to uninitialized values)
-- Respawning items should no longer crash when you get them
+### v0.9.0.7 Changes
+- Major mechanic of Master 4 has been removed until I find a better way of making his mechanic work (Old version is broken on certain emulators and causes a huge bug)
+- More of Master 4's attacks ignore invisibility (but he still has 1 that doesn't ignore it)
+- Last Chance is checked after Last Stand
+- Reducing Bowser's health below the 1/3 health threshold should always result in him healing or attacking
+- Huff N Puff EX Lightning always pierces invisibility
+- Super Block in Bowser's Castle should no longer crash
