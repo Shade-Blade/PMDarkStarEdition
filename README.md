@@ -28,10 +28,9 @@ Some rooms may have an unpausing crash (background may be glitched in them) (In 
 - Clefts turn weird colors when attacking
 - An NPC in the cave area doesn't have the right effects
 
-### v0.9.0.7 Changes
-- Major mechanic of Master 4 has been removed until I find a better way of making his mechanic work (Old version is broken on certain emulators and causes a huge bug)
-- More of Master 4's attacks ignore invisibility (but he still has 1 that doesn't ignore it)
-- Last Chance is checked after Last Stand
-- Reducing Bowser's health below the 1/3 health threshold should always result in him healing or attacking
-- Huff N Puff EX Lightning always pierces invisibility
-- Super Block in Bowser's Castle should no longer crash
+### v0.9.0.8 Changes
+- Bombette Body Slam has been buffed at super rank (2 -> 3) to make the damage progression make more sense (2/3/4)
+- Bowsers Castle 1st prison cell with the super block shouldn't be broken anymore (hopefully) (Last few updates have fixed and broken different parts of the room, I'll probably move the block if there are still bugs)
+- For some reason, Mega Bounce pierced defense, This has been removed.
+- Super Curse and Ultra Curse give the correct Star Point boosts.
+- Coin drops are doubled, and curse badges now affect coin drops too.
