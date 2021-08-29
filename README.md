@@ -28,9 +28,7 @@ Some rooms may have an unpausing crash (background may be glitched in them) (In 
 - Clefts turn weird colors when attacking
 - An NPC in the cave area doesn't have the right effects
 
-### v0.9.0.8 Changes
-- Bombette Body Slam has been buffed at super rank (2 -> 3) to make the damage progression make more sense (2/3/4)
-- Bowsers Castle 1st prison cell with the super block shouldn't be broken anymore (hopefully) (Last few updates have fixed and broken different parts of the room, I'll probably move the block if there are still bugs)
-- For some reason, Mega Bounce pierced defense, This has been removed.
-- Super Curse and Ultra Curse give the correct Star Point boosts.
-- Coin drops are doubled, and curse badges now affect coin drops too.
+### v0.9.0.9 Changes
+- Description of prices of Merlee's spells are corrected
+- Koopa Leaf works as described
+- Super Curse / Ultra Curse have corrected attack and star point values (Let me know if other effects are still swapped)
