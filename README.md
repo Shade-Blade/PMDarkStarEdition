@@ -27,6 +27,7 @@ Some rooms may have an unpausing crash (background may be glitched in them) (In 
 - Save blocks will not be the right color when you load from save (unpausing will fix this)
 - Clefts turn weird colors when attacking
 - An NPC in the cave area doesn't have the right effects
+- Double Dip cost not completely affected by cost saving badges (this seems to affect only the check for whether you can use it)
 
 ### v0.9.0.9 Changes
 - Description of prices of Merlee's spells are corrected
