@@ -29,7 +29,15 @@ Some rooms may have an unpausing crash (background may be glitched in them) (In 
 - An NPC in the cave area doesn't have the right effects
 - Double Dip cost not completely affected by cost saving badges (this seems to affect only the check for whether you can use it)
 
-### v0.9.0.9 Changes
-- Description of prices of Merlee's spells are corrected
-- Koopa Leaf works as described
-- Super Curse / Ultra Curse have corrected attack and star point values (Let me know if other effects are still swapped)
+### v0.9.1.0 Changes
+- Inconsistent crash with floor 30 miniboss is fixed
+- Group tattle problem should be fixed.
+- Buzzar dizzying attack now inflicts 2 turns of dizzy (effectively 1)
+- Epilogue now slightly changes based on postgame progression + greed stone
+- New lore text (version 1) added to the cave.
+- Slightly reduced the effects that shrink produces (Hopefully Shrink Bomb will not crash as often)
+- Robotoad shouldn't respawn anymore
+
+### Balance Changes
+- Adjusted shroom cake sell prices (ssc: 75 -> 45, usc: 60 -> 80)
+- Adjusted shroom cake healing (15/30/45 for normal/super/ultra)
