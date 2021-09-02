@@ -28,6 +28,7 @@ Some rooms may have an unpausing crash (background may be glitched in them) (In 
 - Clefts turn weird colors when attacking
 - An NPC in the cave area doesn't have the right effects
 - Double Dip cost not completely affected by cost saving badges (this seems to affect only the check for whether you can use it)
+- Certain attacks that targets partners are unaffected by dizziness
 
 ### v0.9.1.1 Changes
 - Shroom Cakes are now sold at the mansion shop (Now Tasty Tonics are harder to obtain)
