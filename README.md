@@ -2,6 +2,7 @@
 **Paper Mario: Dark Star Edition** is a mod for Paper Mario created by **ShadeBlade** that adds a lot of new content to the game and increases the difficulty.
 Some of the content was taken from Master Quest, but most of it is entirely new.
 This mod is meant to be about as difficult as Master Quest Jr, but there are badges that increase the health and damage of enemies.
+Thanks to bossbuzz for drawing the partner intro image.
 
 Contact ShadeBlade#1198 on Discord to report bugs and problems.
 
