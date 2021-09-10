@@ -25,36 +25,29 @@ Make sure to contact me if you find bugs or problems, or if you have feedback ab
 Some rooms may have an unpausing crash (background may be glitched in them) (In rooms affected by this, displaying the badge menu then unpausing will crash. Let me know if you find rooms with this problem)
 
 ### Known Bugs
-- Save blocks will not be the right color when you load from save (unpausing will fix this)
 - Goompa can be seen in the partner menu when you have him, but trying to view his moves will crash
 - Clefts turn weird colors when attacking (overworld)
 - An NPC in the cave area doesn't have the right effects
 - Double Dip cost is not completely affected by cost saving badges (This seems to affect only the check for whether you can use it)
-- Certain attacks that targets partners are unaffected by dizziness
 - One of the new maps has weird/broken dock physics 
 
-### v0.9.2.0 Changes
-- Partner targetting moves now (always) miss when the enemy is dizzy
-- With 20 items, throwing items from your inventory should no longer destroy another item in addition to the item you chose (Note: Most of the 20 item code does not change based on whether you have 10 or 20 items)
-- New mushrooms can now be selected for cooking (But there are no recipes for them, so this really doesn't change much)
-- (Chapter 7) Room with invisible blocks no longer has invisible lava (Now you can't use Lakilester to go out of bounds in this room)
-- Parakarry's base move's special effect should be more clear now
-- Mario sleep now heals 10% of his max hp instead of 20% (with a minimum of 2 hp per turn)
-- Kooky Cookie no longer crashes when used
-- Chapter 7 fake Bombettes now have correct speaking animations
-- Albino Dinos should no longer spawn persistent effects when hit with zap tap
-- Giving healing items to a Chapter 8 NPC should work properly
-- Master 4 can no longer be stunlocked if you somehow do more than 50 damage per turn
-- Chapter 1 Bobuke level lowered to discourage early grinding (27 -> 12)
-- Placeholder partner image is gone (Thanks to bossbuzz)
-- A lot of the Dark Temple enemies now drop new items (1 new recipe uses them)
+### v0.9.2.1 Changes
+- Floor 10 miniboss is no longer RNG based (*Note that the AI can still be hard to predict, but it only acts based on turncount and current HP percentage)
+- Floor 90 miniboss is also no longer RNG based
+- Master 4 can no longer break save blocks
+- Shy Guys' Toybox unpause crashes fixed
+- Final boss damage growth has been buffed
+- Items now interact with certain special properties enemies can have
+- One of the new Shiver Mountain maps has a larger railing to prevent you from falling off
+- Huff N Puff no longer sheds 0 puffs from Frigid Stomp and Belly Flop (sidenote: the chill effect normally sets the last damage taken to 0)
+- Random timing / sound cue of Tutankoopa's rock attack has been removed (Rock being invisible or not is still random)
+- 5th Dark Temple boss should go to its home position as it should
+- Chuck Quizmo's final 2 questions are available earlier (this should also make it so that you can't miss the final 2 star pieces)
+- One Luigi's Diary entry is available slightly earlier
+- Icons for Mario's mail and Luigi's Diary entries are no longer items (Sidenote: The mario wiki said those icons were unused)
+- Deathcount on the stat board now displays always (rather than arbitrarily requiring you to use Power Bounce)
+- Save block color bug is finally gone
 
-### Balance Changes
-- Jr Troopa fight in Chapter 8 has been massively nerfed (damage wise)
-- Buzzar has been buffed slightly
-- Flower Health BP cost has been lowered (6 -> 4)
-
-### New Content
-- Several recipe items now have new special effects. List of changed items: (Lemon Candy, Lime Candy, Honey Candy, Iced Potato, Frozen Fries, Koopa Tea) These might need to be balanced later
-- 4 new items have been added (Big mistake, dark shroom, dark leaf, leaf shroom)
-- Note: item attack and defense boosts / reductions overwrite each other.
+### Balance changes
+- Quake Jump costs 16 FP but all 3 hits deal the same damage
+- Hustle Spell now costs 14 FP
