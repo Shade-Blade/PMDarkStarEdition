@@ -36,7 +36,6 @@ Some rooms may have an unpausing crash (background may be glitched in them) (In 
 - Floor 90 miniboss is also no longer RNG based
 - Master 4 can no longer break save blocks
 - Shy Guys' Toybox unpause crashes fixed
-- Final boss damage growth has been buffed
 - Items now interact with certain special properties enemies can have
 - One of the new Shiver Mountain maps has a larger railing to prevent you from falling off
 - Huff N Puff no longer sheds 0 puffs from Frigid Stomp and Belly Flop (sidenote: the chill effect normally sets the last damage taken to 0)
@@ -51,3 +50,4 @@ Some rooms may have an unpausing crash (background may be glitched in them) (In 
 ### Balance changes
 - Quake Jump costs 16 FP but all 3 hits deal the same damage
 - Hustle Spell now costs 14 FP
+- Final boss damage growth has been buffed
