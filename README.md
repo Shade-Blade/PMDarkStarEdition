@@ -20,34 +20,51 @@ Contact ShadeBlade#1198 on Discord to report bugs and problems.
 - And more!
 
 ### Bug Reporting
-I've removed bugs I've encountered, but you may find some bugs while playing. In addition to that, badges, enemies and bosses may not be very balanced in this version.
+I've removed bugs I've encountered, but you may find some bugs while playing.
 Make sure to contact me if you find bugs or problems, or if you have feedback about unbalanced badges or enemies.
-Some rooms may have an unpausing crash (background may be glitched in them) (In rooms affected by this, displaying the badge menu then unpausing will crash. Let me know if you find rooms with this problem)
+A few rooms may have an unpausing crash (background may be glitched in them) (In rooms affected by this, displaying the badge menu then unpausing will crash. Let me know if you find rooms with this problem)
 
 ### Known Bugs
-- Goompa can be seen in the partner menu when you have him, but trying to view his moves will crash
-- Clefts turn weird colors when attacking (overworld)
-- An NPC in the cave area doesn't have the right effects
-- Double Dip cost is not completely affected by cost saving badges (This seems to affect only the check for whether you can use it)
 - One of the new maps has weird/broken dock physics 
 
-### v0.9.2.1 Changes
-- Floor 10 miniboss is no longer RNG based (*Note that the AI can still be hard to predict, but it only acts based on turncount and current HP percentage)
-- Floor 90 miniboss is also no longer RNG based
-- Master 4 can no longer break save blocks
-- Shy Guys' Toybox unpause crashes fixed
-- Items now interact with certain special properties enemies can have
-- One of the new Shiver Mountain maps has a larger railing to prevent you from falling off
-- Huff N Puff no longer sheds 0 puffs from Frigid Stomp and Belly Flop (sidenote: the chill effect normally sets the last damage taken to 0)
-- Random timing / sound cue of Tutankoopa's rock attack has been removed (Rock being invisible or not is still random)
-- 5th Dark Temple boss should go to its home position as it should
-- Chuck Quizmo's final 2 questions are available earlier (this should also make it so that you can't miss the final 2 star pieces)
-- One Luigi's Diary entry is available slightly earlier
-- Icons for Mario's mail and Luigi's Diary entries are no longer items (Sidenote: The mario wiki said those icons were unused)
-- Deathcount on the stat board now displays always (rather than arbitrarily requiring you to use Power Bounce)
-- Save block color bug is finally gone
+### v1.0.0.0 Changes
+- Tutankoopa rock timing should really be consistent now
+- Star piece between Dry Dry Desert and Gusty Gulch now has Merluvlee information
+- Crazy Heart Star Piece cost has been increased (20 -> 21) (If you already have it, you will eventually end up with 1 extra star piece if you buy everything)
+- Dark Temple bosses now have the same level (70)
+- Talking animations in fake Bombette room should be fixed for real
+- Cleft animation bug has been fixed
+- Goompa no longer appears in the pause menu
+- Jelly Shrooms work outside of battle again
+- Effects of an endgame npc have been fixed
+- Floor 90 miniboss no longer crashes when statused while flipped
+- Dark Magikoopa crashes should be fixed
+- Double / Triple Dip now works with cost reduction badges
+- Other FP badge problems should be fixed now too
+- Dark Power actually works correctly
+- Geometry of some of the Dark Temple puzzles has been made easier to traverse
+- Rosie no longer mistakes the crystal berry for a badge
+- No longer possible to open the Peach's castle pipe with certain recipes (only recipe flags were changed, so you have to remake the recipes again to count towards the recipe count)
+- Knowledge stone works
 
-### Balance changes
-- Quake Jump costs 16 FP but all 3 hits deal the same damage
-- Hustle Spell now costs 14 FP
-- Final boss damage growth has been buffed
+### Balance Changes
+- Sky Dive ultra rank damage reduced (5 -> 4)
+- Forest Fuzzies are much more resistant to sleep (2 use/-1 -> 1 use/-2)
+- Boo damage increase (3 -> 4)
+- Boo initial invisiblity is no longer RNG
+- Amazy Dayzee health increase (30 -> 40)
+- Amazy Dayzee status weaknesses have been reduced (Now only sleep works and for 1 turn)
+- Some badges are no longer incompatible with Flower Health, (instead the effects change slightly)
+- Hurricane damage increase (4 -> 5)
+- Jr Troopa 6 has slower attacks now (and some minor damage nerfs)
+- Slight loadout changes for cave enemies
+- Dark Temple boss 3 has a new attack that pierces invis
+- Dark Temple boss 4 has much stronger attacks
+
+### BP Cost Changes
+- Head Start cost increase (6 -> 8 BP)
+
+### Move Cost Changes
+- Cloud Nine cost increase (5 -> 7)
+- Quake Jump cost increase (16 -> 18) (This is probably still overpowered)
+- Hustle Spell cost decrease (14 -> 10) (New mechanics should discourage spam)
