@@ -27,8 +27,17 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.0.1 Changes
-- Merluvlee talks about new stuff correctly now
-- Greed stone yoshi no longer appears in a place he isn't supposed to (if you don't have it)
-- Ultra Hammer Charge now costs 10 FP
-- Pit 80s formations should work properly
+### v1.0.0.2 Changes
+- Text of one of the Super Block fortunes has been fixed
+- Star piece fortunes should be correct again
+- Badge fortunes should be complete
+- Badge count has been corrected to 111.
+- Star piece count has been corrected to 182. This is almost certainly the true count.
+- Crazy Heart now costs 22 star pieces
+- Kooky cookie is no longer usable out of battle
+- Cave boss damage tracking works properly now with Mega Bounce
+- Hammer Throw is 2 FP
+- Flower Health is 3 BP
+- Dusty Hammer does 3 damage
+- Item located on an island near Koopa Bros Fortress has been improved
+- New cutscene in chapter 5 should no longer softlock
