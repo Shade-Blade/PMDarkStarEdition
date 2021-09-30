@@ -7,7 +7,7 @@ Thanks to bossbuzz for drawing the partner intro image.
 Contact ShadeBlade#1198 on Discord to report bugs and problems.
 
 ### **New content includes...**
-- 33 new badges
+- 34 new badges
 - 11 new items
 - 55 new maps
 - Pit of 100 trials
@@ -27,17 +27,12 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.0.2 Changes
-- Text of one of the Super Block fortunes has been fixed
-- Star piece fortunes should be correct again
-- Badge fortunes should be complete
-- Badge count has been corrected to 111.
-- Star piece count has been corrected to 182. This is almost certainly the true count.
-- Crazy Heart now costs 22 star pieces
-- Kooky cookie is no longer usable out of battle
-- Cave boss damage tracking works properly now with Mega Bounce
-- Hammer Throw is 2 FP
-- Flower Health is 3 BP
-- Dusty Hammer does 3 damage
-- Item located on an island near Koopa Bros Fortress has been improved
-- New cutscene in chapter 5 should no longer softlock
+### v1.0.1.0 Changes
+- Hammer throw cost text fixed
+- Dizzy Stomp text fixed
+- Enemy lakilester hp bar now is positioned correctly
+- Coconut, Pebble and Dusty Hammer now have throwing type damage
+- Robotoad electrical attacks are now electric type damage
+- Curse badges now display health bars
+- New hidden block in prologue
+- New hidden block in Chapter 6
