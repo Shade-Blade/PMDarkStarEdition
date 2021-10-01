@@ -27,7 +27,5 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.1.1 Changes
-- Fixed hp number colors when you equip all curses
-- Goomba village no longer crashes
-- New badge in Rowf's shop allows you to see enemy defense if you can see enemy HP
+### v1.0.1.1h Changes
+- Goomba Village really no longer crashes
