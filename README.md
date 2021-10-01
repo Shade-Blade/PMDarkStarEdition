@@ -7,7 +7,7 @@ Thanks to bossbuzz for drawing the partner intro image.
 Contact ShadeBlade#1198 on Discord to report bugs and problems.
 
 ### **New content includes...**
-- 34 new badges
+- 35 new badges
 - 11 new items
 - 55 new maps
 - Pit of 100 trials
@@ -27,12 +27,7 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.1.0 Changes
-- Hammer throw cost text fixed
-- Dizzy Stomp text fixed
-- Enemy lakilester hp bar now is positioned correctly
-- Coconut, Pebble and Dusty Hammer now have throwing type damage
-- Robotoad electrical attacks are now electric type damage
-- Curse badges now display health bars
-- New hidden block in prologue
-- New hidden block in Chapter 6
+### v1.0.1.1 Changes
+- Fixed hp number colors when you equip all curses
+- Goomba village no longer crashes
+- New badge in Rowf's shop allows you to see enemy defense if you can see enemy HP
