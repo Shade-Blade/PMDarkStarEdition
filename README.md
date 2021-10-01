@@ -27,5 +27,5 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.1.1h Changes
-- Goomba Village really no longer crashes
+### v1.0.1.1h2 Changes
+- New badge has been corrected
