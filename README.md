@@ -27,8 +27,9 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.1.2 Changes
-- Damage reduction badges can no longer produce more than 10 clouds each at a time
-- Def Spotter is now available post chapter 2
-- Spin Smash is available post chapter 1
-- Crash when entering Koopa Bros Fortress from a different entrance and then saving no longer happens
+### v1.0.1.3 Changes
+- Shiver mountain map no longer has an out of bounds method
+- Swoopula mechanics work with the health draining
+- Various Merluvlee fortunes have been fixed
+- Enemies no longer drop 80 ish coins each every time 
+- Instakilling enemies affected by curses is no longer possible
