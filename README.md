@@ -27,5 +27,17 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.1.4h Changes
-- Very high max HP enemies no longer crash
+### v1.0.1.5 Changes
+- Animations for final Jr Troopa should work better
+- Recoil Throw cost description is correct again
+- Recoil Throw cost reduced to 6, but recoil hit now reacts to Mario's attack increasing badges (base recoil damage slightly reduced to compensate)
+- New partner base move no longer pierces invis
+- Hurricane no longer pierces invis
+- Floor 90 miniboss HP increased (25 -> 35)
+- Floor 100 miniboss reacts correctly to Zap Tap
+- No longer possible to get 30 spells at (1 per 4 turns) frequency by buying spells in a certain order
+- No longer possible to bypass a timed gate in the Temple of Darkness
+- Various strange movement and clips fixed in the Temple of Darkness
+- Problems with super curse Koopa Bros EX sprites have been fixed
+- New ultra curse palette for Koopa Bros
+- Source code updated
