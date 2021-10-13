@@ -27,10 +27,12 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.1.6 Changes
-- Source code link updated to 1.0.1.5
-- Buzzar wind attack damage increased by 1 but it is blockable now
-- Lantern attack fully misses if Big Lantern Ghost is dizzy
-- No longer possible to instakill enemies with exactly 256, 512, etc hp using Curse / Chill Out
-- Defense displayer won't try to display -1 (*this bug causes some visual problems)
-- Failing the Curse action command actually does something different
+### v1.0.1.7 Changes
+- Fixed Goombario charge description
+- Recipe count fixed(?) to 55
+- 1 new recipe added that produces Repel Gels
+- The different berries have new effects (red, blue, yellow, bubble)
+- The recipe table has been restructured, so recipe flags have been jumbled around (some recipes that were unlocked may be treated as locked again since I moved some flags around)
+- New recipe items are now tracked properly again (Mistakes should be tracked also
+- Belly flop special effect is only available after getting Super Rank as intended
+- Rowf now talks about 0 BP cost badges properly
