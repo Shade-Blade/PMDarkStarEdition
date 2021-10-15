@@ -27,12 +27,11 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.1.7 Changes
-- Fixed Goombario charge description
-- Recipe count fixed(?) to 55
-- 1 new recipe added that produces Repel Gels
-- The different berries have new effects (red, blue, yellow, bubble)
-- The recipe table has been restructured, so recipe flags have been jumbled around (some recipes that were unlocked may be treated as locked again since I moved some flags around)
-- New recipe items are now tracked properly again (Mistakes should be tracked also
-- Belly flop special effect is only available after getting Super Rank as intended
-- Rowf now talks about 0 BP cost badges properly
+### v1.0.1.8 Changes
+- Fixed the story progress on some Merluvlee fortunes
+- No longer possible for Tayce T to cook recipes outside of the recipe table
+- Tutankoopa EX summons Golden Chomps (now named correctly) instead of regular chomps
+- Crystal King EX shows the correct messages now
+- Boss Rush now tracks how many turns you took to beat everything, and there is a sign to go along with that. (If you beat them in previous updates, it will just say "N/A" for turn count)
+- EX Rush has been changed so hopefully it is now actually possible
+- EX Rush reward's sprite has been fixed
