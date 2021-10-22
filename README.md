@@ -27,11 +27,14 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.1.8 Changes
-- Fixed the story progress on some Merluvlee fortunes
-- No longer possible for Tayce T to cook recipes outside of the recipe table
-- Tutankoopa EX summons Golden Chomps (now named correctly) instead of regular chomps
-- Crystal King EX shows the correct messages now
-- Boss Rush now tracks how many turns you took to beat everything, and there is a sign to go along with that. (If you beat them in previous updates, it will just say "N/A" for turn count)
-- EX Rush has been changed so hopefully it is now actually possible
-- EX Rush reward's sprite has been fixed
+### v1.0.2.0 Changes
+- Chapter 1 Bobuke no longer has a different defense table than the others
+- Boss Rush now correctly counts the turns for the last battle in the rush
+- Some Rowf badges rearranged
+- If you end the Chapter 6 Peach intermission without dropping off all of Peach's items, they should be automatically be put in the chest anyway
+- Goomnuts and Nutty Cakes have new effects
+- In the Koopa Bros EX fight, the dizzy effect on Mario now lasts 2 turns
+- Crystal King clones are slightly easier to distinguish from the original
+- Incorrect defense with Dark Temple boss 6 should be gone
+- Robotoad is now closer to the pipe. This should prevent all skip bugs since you can no longer access the pipe without being inside his trigger radius
+- Source Code link updated to v1.0.2.0
