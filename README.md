@@ -27,29 +27,14 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.3.0 Changes
-- Crash handler actually has the right version this time
-- 1 new recipe item (shooting star + cake mix)
-- 4 new badges (2 in a chapter 7 map, 2 in chapter 4)
-- Using the curse badges now causes the damage popups to be different colors
-- Badge count definitively corrected to 118 (in the last version the count was 113 when it should have been 114)
-- Certain fortune formatting is really actually fixed
-- Base level battle moves ("Jump" "Hammer") have different icons now 
-- Dizzy Attack description made more accurate
-- Dizzy explanation made more accurate
-- Fuzzipede no longer crashes the game when trying to display his defense when he is not targettable
-- Special mechanic on a chapter 5 enemy is more clear
-- Frigid stomp now buffed to -2 attack for 3 turns, damage progression for normal/super/ultra boots changed (4/6/8)
-- Watt can now first strike (it does 0 damage but it has some uses)
-- No longer possible to refight a chapter 5 miniboss if you immediately leave and reenter the room
-- A chapter 7 miniboss now has a harder variation if you encounter him early (rewards you with an endgame badge early)
-- Tattle for chapter 7 miniboss is more correct
-- Duplighost damage copy mechanic works for fiery attacks and spin smash
-- Slight changes to Ultra Boots cutscene (no longer possible for music to break)
-- Hurricane no longer crashes on invisible targets
-- New partner base attack is now green
-- A chapter 8 miniboss can no longer be jumped on
-- Right On now has a badge fortune
-- Floor 90 miniboss attacks are colored differently now
-- Postgame battle maps have been cleaned up
-- Made some space for new maps coming in the next few updates (you can get to it somewhere around the Star Temple)
+### v1.0.3.1 Changes
+- Mega HP Drain text fixed
+- Hustle Drink text fixed
+- Last Chance works again
+- Dark Shield no longer has the effect of HP Plus in addition to its normal effect
+- Moved Flower Health closer to the other FP saving badges in the menu
+- Dark Power negative effect should work correctly now
+- Various badges should be fixed
+- All of the new partner's moves have the correct targetting now
+- Chapter 7 jr troopa will no longer attack in a way that makes the damage appear off screen
+- Merlow doesn't crash the game anymore
