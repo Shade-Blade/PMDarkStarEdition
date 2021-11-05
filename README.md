@@ -27,14 +27,5 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.3.1 Changes
-- Mega HP Drain text fixed
-- Hustle Drink text fixed
-- Last Chance works again
-- Dark Shield no longer has the effect of HP Plus in addition to its normal effect
-- Moved Flower Health closer to the other FP saving badges in the menu
-- Dark Power negative effect should work correctly now
-- Various badges should be fixed
-- All of the new partner's moves have the correct targetting now
-- Chapter 7 jr troopa will no longer attack in a way that makes the damage appear off screen
-- Merlow doesn't crash the game anymore
+### v1.0.3.1h Changes
+- Infinite downward arrow glitch is fixed
