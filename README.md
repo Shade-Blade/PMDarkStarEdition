@@ -27,5 +27,10 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - One of the new maps has weird/broken dock physics
 
-### v1.0.3.1h Changes
-- Infinite downward arrow glitch is fixed
+### v1.0.3.2 Changes
+- Super Shroom Cake has the correct icon again
+- Music for the final boss of the dark temple has been improved slightly
+- With the greed stone equipped, badge stone gives 20 bp instead
+- New area added (Note that the bosses are not in the game so the new area is just completely empty)
+- Ultra Jump Charge has a name again
+- Peach is no longer the wrong color anymore (*That palette will reappear somewhere else)
