@@ -1,13 +1,13 @@
 # PMDarkStarEdition
 **Paper Mario: Dark Star Edition** is a mod for Paper Mario created by **ShadeBlade** that adds a lot of new content to the game and increases the difficulty.
-Some of the content was taken from Master Quest, but most of it is entirely new.
+Some of the content (various badge and enemy sprites and maps) was taken from Master Quest, but most of it is entirely new.
 This mod is meant to be about as difficult as Master Quest Jr, but there are badges that increase the health and damage of enemies.
 Thanks to bossbuzz for drawing the partner intro image.
 
 Contact ShadeBlade#1198 on Discord to report bugs and problems.
 
 ### **New content includes...**
-- 39 new badges
+- 48 new badges
 - 18 new items
 - Several new mechanics on existing items
 - 59 new maps
@@ -28,18 +28,26 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - Damage effects for Power Bomb do not display correctly
 
-### v1.1.0.1 Changes
-- Tattle of Light Rush boss 4 has been fixed
-- Tattle of one of the Light Rush room 5 bosses has been fixed
-- Corrected recipe count to 60 and corrected flag table
-- Lil Oinks now drop better items (endgame quality)
-- Bandit ambush bandits can no longer float in midair
-- Flower Saver is 5 BP as stated
-- Buzzar wind is unblockable (This is not a change, but it appears that the attack is unblockable despite not having an unblockable flag)
-- New effects for Potato Salad and Shroom Steak
-- Dark Cake description has been corrected
-- Golden Melon is no longer nearly impossible to obtain
-- Yellow Yoshi now accepts some of the nonvanilla cookable items
-- No longer possible for partner to be stunlocked in Light Rush Room 4
-- Dark Temple boss 5 really actually does fire damage to partners
-- Mario is no longer immune to sleep
+### v1.1.1.0 Changes
+- Various descriptions that said "paralyzes" are more accurate now
+- Air Lift now restores your turn if you fail it
+- No longer possible to be statused with Stone Cap active
+- Removed status vulnerabilities for part of Light Rush Boss 6
+- One change to the Lil Oink item table (now Booster Shrooms can be dropped)
+- New recipes should actually count again
+- New sign outside of Tayce T's house that counts recipes (Sign also talks about items you haven't cooked)
+- Big Cookie has a new effect
+
+- Base power of all of Crystal King's moves have been increased by 1
+
+- Fixed a few badge descriptions
+- Greed Stone now converts HP Pluses into FP Pluses (might result in bugs)
+- Deep Focuses now affect the special focus badges
+- Mega Bounce BP cost increased to 3 BP
+- New badge can be obtained by cooking all of Tayce T's recipes (very strong badge)
+- New badge can be obtained by getting all of Merlow's badges and then talking to him
+- New badge can be obtained by buying all Rowf badges
+- 5 new Rowf badges
+- 1 new badge found somewhere else
+- Badge count total increased to 127
+- Right On and Quake Jump badge fortunes should work properly now
