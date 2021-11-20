@@ -28,26 +28,5 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - Damage effects for Power Bomb do not display correctly
 
-### v1.1.1.0 Changes
-- Various descriptions that said "paralyzes" are more accurate now
-- Air Lift now restores your turn if you fail it
-- No longer possible to be statused with Stone Cap active
-- Removed status vulnerabilities for part of Light Rush Boss 6
-- One change to the Lil Oink item table (now Booster Shrooms can be dropped)
-- New recipes should actually count again
-- New sign outside of Tayce T's house that counts recipes (Sign also talks about items you haven't cooked)
-- Big Cookie has a new effect
-
-- Base power of all of Crystal King's moves have been increased by 1
-
-- Fixed a few badge descriptions
-- Greed Stone now converts HP Pluses into FP Pluses (might result in bugs)
-- Deep Focuses now affect the special focus badges
-- Mega Bounce BP cost increased to 3 BP
-- New badge can be obtained by cooking all of Tayce T's recipes (very strong badge)
-- New badge can be obtained by getting all of Merlow's badges and then talking to him
-- New badge can be obtained by buying all Rowf badges
-- 5 new Rowf badges
-- 1 new badge found somewhere else
-- Badge count total increased to 127
-- Right On and Quake Jump badge fortunes should work properly now
+### v1.1.1.0h Changes
+- New Rowf badges no longer turn into items
