@@ -28,7 +28,5 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - Damage effects for Power Bomb do not display correctly
 
-### v1.1.1.1 Changes
-- One of Rowf's dialogues has been fixed (the message where there are no badges available but he still has badges)
-- Item icon when Item Saver is active has been corrected
-- No longer possible to use hustle drink when have hustle effect and you use double / triple dip (Current solution is pretty hacky though)
+### v1.1.1.1h Changes
+- Item shops should work properly again
