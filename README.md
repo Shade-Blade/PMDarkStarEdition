@@ -28,25 +28,9 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - Damage effects for Power Bomb do not display correctly
 
-### v1.2.0.0 Changes
-- Super Soda and Tasty Tonic now cure stat downs
-- Changed 2 Quizmo questions
-- Up and Away is now deterministic (though the way it works now is hard to explain)
-- A few new maps added to the new cave area. The 128th badge is locked behind a short boss fight.
-- Golden Shroom no longer crashes when used in battle
-- Slight modification to the animations of the pit floor 100 boss
-- Wording of some badge fortunes has been fixed
-- It should no longer be possible for partner to be stunlocked in Light Rush fight 5
-- Source code updated to v1.2.0.0
-- Item and badge shops should really be fixed (?)
+### v1.2.0.1 Changes
+- Potential problems with Stellar Shield damage calculation should be fixed
+- Dark cave boss hp increased (50 -> 80)
+- An encounter trigger in the dark cave no longer persists for a few moments after the enemies die
 
-- Static Stomp is 1 BP now
-- Curse badges now talk about coin gain
-- Focus badges now talk about their interaction with Deep Focus.
-- Stellar Burst no longer changes the colors of the Star Power costs when the conditions aren't met
-
-- Various formations have been changed to make it much more difficult to farm star points off of cursed enemies
-- Tutankoopa now flies up before activating the new curses
-- Tutankoopa can now move after doing new curses
-
-This will probably be the last major content update since there is no more space for more badges or items (Mario can't have more than 128 badges at a time)
+v1.2 will probably be the last major content update since there is no more space for more badges or items (Mario can't have more than 128 badges at a time)
