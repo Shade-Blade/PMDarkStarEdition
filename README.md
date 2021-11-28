@@ -28,9 +28,11 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - Damage effects for Power Bomb do not display correctly
 
-### v1.2.0.1 Changes
-- Potential problems with Stellar Shield damage calculation should be fixed
-- Dark cave boss hp increased (50 -> 80)
-- An encounter trigger in the dark cave no longer persists for a few moments after the enemies die
+### v1.2.0.2 Changes
+- No longer possible to have more star power than the maximum
+- Stellar Power no longer reduces your attack power when you pay exactly enough star power to get to 0
+- No longer possible to get 0 star points from a battle with curse badges equipped
+- Jr Troopa 4 (the chapter 5 one) no longer ends up with only 20 hp with curses equipped
+- Black yoshi should no longer appear when he shouldn't
 
 v1.2 will probably be the last major content update since there is no more space for more badges or items (Mario can't have more than 128 badges at a time)
