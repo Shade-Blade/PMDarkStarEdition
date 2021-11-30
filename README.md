@@ -28,8 +28,10 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - Damage effects for Power Bomb do not display correctly
 
-### v1.2.0.3 Changes
-- Environmental effects are no longer completely broken
-- Jr Troopa 4 (the chapter 5 one) no longer crashes the game when the hp bar is supposed to disappear
+### v1.2.0.4 Changes
+- No longer possible to have more Star Power than the maximum 
+- Star Power is now labelled correctly in the pause menu
+- New property for Smooch
+- Shrink Bomb can no longer do 5 damage if you hit a specific segment of the action command
 
 v1.2 will probably be the last major content update since there is no more space for more badges or items (Mario can't have more than 128 badges at a time)
