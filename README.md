@@ -28,13 +28,13 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 - Damage effects for Power Bomb do not display correctly
 
-### v1.2.1.0 Changes
-- No longer possible to have more Star Power than the maximum (For real this time)
-- Flower Health no longer weakens HP Drain effects
-- HP Drain turns into FP Drain if you have the Greed Stone
-- HP Drain can now be used in Danger
-- HP Drain restoration is capped to 5 per turn correctly
-- You no longer get Smooch's effect permanently for free
-- Fixed problems with Happy Heart / Happy Flower and certain environmental effects
+### v1.2.1.1 Changes
+- Fixed a few custom NPC tattles
+- Some text formatting fixed
+- A gusty gulch boo no longer has a broken tattle
+- A few badges have changed sprites
+- Pause menu cost of outta sight will always be the starting price
+- Special focus badges and Group Focus can no longer be combined
+- FP Drain no longer crashes sometimes
 
 v1.2 will probably be the last major content update since there is no more space for more badges or items (Mario can't have more than 128 badges at a time)
