@@ -8,7 +8,7 @@ Contact ShadeBlade#1198 on Discord to report bugs and problems.
 
 ### **New content includes...**
 - 49 new badges
-- 18 new items
+- 41 new items
 - Several new mechanics on existing items
 - 59 new maps
 - Pit of 100 trials
@@ -26,15 +26,32 @@ Make sure to contact me if you find bugs or problems, or if you have feedback ab
 A few rooms may have an unpausing crash (background may be glitched in them) (In rooms affected by this, displaying the badge menu then unpausing will crash. Let me know if you find rooms with this problem)
 
 ### Known Bugs
-- Damage effects for Power Bomb do not display correctly
 
-### v1.2.1.1 Changes
-- Fixed a few custom NPC tattles
-- Some text formatting fixed
-- A gusty gulch boo no longer has a broken tattle
-- A few badges have changed sprites
-- Pause menu cost of outta sight will always be the starting price
-- Special focus badges and Group Focus can no longer be combined
-- FP Drain no longer crashes sometimes
+### v1.3.0.0 Changes
+- Tattling the early version of a chapter 7 encounter no longer gives an error message
+- Refund now turns into Item Finder when you have Greed Stone
+- Recoil throw has been nerfed (cost 6 FP -> 7 FP, damage nerfed to be in line for mega smash)
+- Delayed heal items no longer stack in strange ways (using items with different powers now works as expected)
+- Fixed damage effects from Power Bomb
+- In the Koopa Bros rematch, you can flip the koopa bros correctly again
+- Double Dip now properly works with Flower Health
+- New Stinky Herb effect
+- Mega Bolt description has been fixed
+- Dark Rush now has 8 battles (now all of the Dark Temple bosses are there)
+- Source Code link updated to 1.3.0.0
 
-v1.2 will probably be the last major content update since there is no more space for more badges or items (Mario can't have more than 128 badges at a time)
+New Items / Item Changes
+- You can now use the 9 Peach baking items as Mario (though most of their effects are in other items too)
+- 	(Note: this could cause bugs with the peach baking sequence but it probably won't)
+- Super Shroom in Yoshi's Village shop has been replaced with a Strawberry
+- 12 new item recipes
+- 2 new non-recipe items available in the Shiver City shop and Bowser's Castle shop
+
+Non-changes (Things that you should keep an eye out on to see if there are bugs)
+- All the big chests (super boots, ultra boots, etc) have been changed internally. This shouldn't change anything but keep on the look out for bugs
+- The dojo items (degree cards) have been changed internally also.
+- Boo's Mansion items and Sneaky Parasol have been changed internally also.
+- Some flags on the Peach baking items have been altered, but I think the baking sequence should still work correctly.
+- The code for how all the special effect items work (attack, defense and fp saver boosts) has been internally changed
+
+v1.3 is more likely to be the final content update. I have a method to create space for more consumable items, but now the question is "Why should I add this?" more than "Can I add this?"
