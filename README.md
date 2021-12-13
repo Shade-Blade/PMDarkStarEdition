@@ -27,13 +27,13 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 
 ### Known Bugs
 
-### v1.3.1.0 Changes
-- Now possible to freely combine Sugar and invisibility
-- Robotoad is now weak to ice when he is weak to water (same for his upgraded form)
-- Dark Temple boss 2 will now regain the defense its supposed to have when it moves after you use Star Beam (though this only matters in the Dark Rush)
-- No longer possible to fall out of one of the Shiver Mountain maps
-- With Greed Stone, Money Money becomes Quick Flee (gives automatic fleeing)
-- Mega Bounce now has a steeper damage curve (damage goes down faster)
+### v1.3.1.1 Changes
+- Giant chest in Boo's Mansion gives you normal looking super boots
+- Goompa tells you what the hammer looks like correctly
+- Defense Focus is no longer unobtainable
+- Can no longer dizzy Anti Guy in front of the chest
+- Trading event toad now gives better / rarer items as rewards
+- Now added a hardcoded check that prevents shrink and dizzy from working for only 1 turn (turn duration will be set to 2 in that case)
 
 v1.3 is more likely to be the final content update. I have a method to create space for more consumable items, but now the question is "Why should I add this?" more than "Can I add this?"
 v1.4 will probably be a full game balance update, though I'm not sure how many things actually need balancing
