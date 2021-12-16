@@ -27,13 +27,11 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 
 ### Known Bugs
 
-### v1.3.1.1 Changes
-- Giant chest in Boo's Mansion gives you normal looking super boots
-- Goompa tells you what the hammer looks like correctly
-- Defense Focus is no longer unobtainable
-- Can no longer dizzy Anti Guy in front of the chest
-- Trading event toad now gives better / rarer items as rewards
-- Now added a hardcoded check that prevents shrink and dizzy from working for only 1 turn (turn duration will be set to 2 in that case)
+### v1.3.1.2 Changes
+- You can no longer keep the boo weight after using it on the chandelier
+- Gourmet guy no longer accepts cakes before you give Tayce T the frying pan to prevent a sequence break problem (some new dialogue explains this)
+- Leaf Shroom effect changed
+- Star Cake reacts properly to Yoshi Biscuit
 
 v1.3 is more likely to be the final content update. I have a method to create space for more consumable items, but now the question is "Why should I add this?" more than "Can I add this?"
 v1.4 will probably be a full game balance update, though I'm not sure how many things actually need balancing
