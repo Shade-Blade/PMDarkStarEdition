@@ -27,11 +27,17 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 
 ### Known Bugs
 
-### v1.3.1.2 Changes
-- You can no longer keep the boo weight after using it on the chandelier
-- Gourmet guy no longer accepts cakes before you give Tayce T the frying pan to prevent a sequence break problem (some new dialogue explains this)
-- Leaf Shroom effect changed
-- Star Cake reacts properly to Yoshi Biscuit
+### v1.3.1.3 Changes
+- Goomba bros in the rematch fight no longer retain their charge if you use Zap Tap
+- Normal fleeing no longer costs 2 fp
+- Yoshi Cookie / Yoshi Biscuit effect no longer persists between battles
+- Light rush boss 5: certain attacks will no longer crash when Mario is invisible
+- Tayce T no longer gives you the all recipes reward at 60 recipes (the pre 1.3 recipe count)
+- Feelin Fine and Berserker descriptions are more accurate now
+- Happy Heart correctly displays the heart now
+- Super Soda correctly removes certain status ailments
+- Rearranged one of the Shiver Mountain enemy formations so that first striking makes sense
+- Health focus and Flower focus bp cost increased (1 -> 3) but they can now be combined with Group Focus again
 
 v1.3 is more likely to be the final content update. I have a method to create space for more consumable items, but now the question is "Why should I add this?" more than "Can I add this?"
 v1.4 will probably be a full game balance update, though I'm not sure how many things actually need balancing
