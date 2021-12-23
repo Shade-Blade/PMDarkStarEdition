@@ -8,14 +8,14 @@ Contact ShadeBlade#1198 on Discord to report bugs and problems.
 
 ### **New content includes...**
 - 49 new badges
-- 41 new items
+- 49 new items
 - Several new mechanics on existing items
 - 59 new maps
 - Pit of 100 trials
-- Boss rush
+- Boss rushes
 - New enemy mechanics
 - Changed status mechanics
-- New partner (with fully working overworld and battle abilities)
+- 1 new partner (with fully working overworld and battle abilities)
 - ~80 new enemies
 - Various visual and quality of life changes
 - And more!
@@ -27,17 +27,59 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 
 ### Known Bugs
 
-### v1.3.1.3 Changes
-- Goomba bros in the rematch fight no longer retain their charge if you use Zap Tap
-- Normal fleeing no longer costs 2 fp
-- Yoshi Cookie / Yoshi Biscuit effect no longer persists between battles
-- Light rush boss 5: certain attacks will no longer crash when Mario is invisible
-- Tayce T no longer gives you the all recipes reward at 60 recipes (the pre 1.3 recipe count)
-- Feelin Fine and Berserker descriptions are more accurate now
-- Happy Heart correctly displays the heart now
-- Super Soda correctly removes certain status ailments
-- Rearranged one of the Shiver Mountain enemy formations so that first striking makes sense
-- Health focus and Flower focus bp cost increased (1 -> 3) but they can now be combined with Group Focus again
 
-v1.3 is more likely to be the final content update. I have a method to create space for more consumable items, but now the question is "Why should I add this?" more than "Can I add this?"
-v1.4 will probably be a full game balance update, though I'm not sure how many things actually need balancing
+### v1.4.0.0 Changes
+- Save Files now appear different colors depending on how far you got in the postgame areas
+- The "x" in the status bar is the correct color now (though it was only noticeable if you looked very closely at it)
+- Complete Chet Rippo rework. You can now change your stats more easily, and you can even reduce them below their starting values.
+- No longer possible to make item buffs last 16x longer than they should when you use [redacted]
+- Invisible bzzrk glitch has been fixed
+- Ultra Boots fight should no longer break the music?
+- One variation of the floor 100 boss should work better
+- New pipe in between Star Haven and Shooting Star Summit
+- New partner now more immunities to reflect how much defense her species has.
+- No longer possible for Hustle Spell to stack with Hustle Drink
+- Milk effect changed
+- Jr Troopa final rematch animations have been fixed finally
+- No longer possible to softlock in the entrance to the Dark Temple by initiating the cutscene in a certain way
+- Made a small change to one of the dark temple rooms to make a solution easier to find (I forgot what you "should" do to solve it :P)
+- Molten Shroom (normally unsellable item) had its selling price changed (999 -> 250) because it still matters with Refund
+- Stellar Nova's sp cost is now correctly checked
+
+### Item Changes
+- Recipe count sign now tells you how to make the current item you're missing
+- Fright Jars are easier to obtain
+- 5 new nonrecipe items
+- Nerfed some fp saver items (bland meal, yummy meal, deluxe feast, special shake, shroom steak, strawberry pop)
+- Dark Pop is now slightly stronger
+- No longer possible to stack hp/fp recovery past 9 turns
+- Yoshi Cookie and Yoshi Cake have better descriptions now
+- Yoshi Cookie and Yoshi Cake should now correctly boost the duration of Electro Pop's electrification
+- Yoshi Cookie and Yoshi Cake effects will no longer persist after using recovery over time items
+- Yoshi Cookie and Yoshi Cake now boost the negative effects of certain items (ones that inflict negative statuses)
+- The Mushroom / Super Shroom / Ultra Shroom set of blocks in Dry Dry Desert now give better shrooms
+- Many blocks in chapter 4 / 5 / 6 areas give different / better items
+- A few blocks in Bowser's Castle now give better items
+- Some life shrooms in Bowser's Castle have been replaced with other shroom types
+- Life shroom in Peach's Castle has been replaced with a different shroom type
+- 3 new recipes (unfortunately they are all chapter 8+ recipes)
+- Duality Shake has new interactions with certain statuses
+- If Item Saver procs on an item that produces another item (Dual Shroom for example), that item is instead not produced
+
+### Badge Balance Changes
+- HP Drain no longer works if your max hp is 5 or lower (With Chet Rippo, this is possible without Greed Stone)
+- Health Focus and Flower Focus are half as effective as they used to be (it rounds up or down depending on turn count)
+- Flower Coins effect when you have Greed Stone has been completely reworked
+- Feeling Fine now applies to your partner too.
+- Stellar Flowers is now 3 bp
+
+### Enemy Balance Changes
+- Chomps and Stone Chomps now have 7 hp
+- Dark Koopas get up 1 turn after being flipped instead of 2
+- Dark Paratroopas no longer turn into vanilla Dark Koopas when they drop from the air
+- Spinies get up 1 turn after being flipped instead of 2
+- Final battle of the Light Rush is now harder
+- Floor 100 boss now has unpiercable defense
+
+1.4 is almost certainly going to be the final major update (no 1.5). There really isn't much else to add at this point. 
+(Although, I may decide to make a 2.0 version in the far future that would change almost everything)
