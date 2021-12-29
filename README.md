@@ -28,10 +28,14 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.0.1 Changes
-- The recipe hint for the last item is no longer broken
-- Source code link is no longer partially cut off
-- No longer possible to scam the Yoshi Village shop by selling Strawberries
+### v1.4.0.2 Changes
+- Double Dip / Triple Dip now properly check if you have FP Savers on or not
+- Tattling the enemies in front of the Temple of Darkness no longer crashes the game
+- Light Goombas are no longer weak to Star Storm
+- Strawberry has been nerfed
+- Strawberry description wording has been changed slightly
+- (Not a change) Bombette has a larger first strike range when upgraded
+- Text when Bombette joins the party now gives the information in the above non-change
 
 1.4 is almost certainly going to be the final major update (no 1.5). There really isn't much else to add at this point. 
 (Although, I may decide to make a 2.0 version in the far future that would change almost everything)
