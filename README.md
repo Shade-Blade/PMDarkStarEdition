@@ -28,14 +28,14 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.0.2 Changes
-- Double Dip / Triple Dip now properly check if you have FP Savers on or not
-- Tattling the enemies in front of the Temple of Darkness no longer crashes the game
-- Light Goombas are no longer weak to Star Storm
-- Strawberry has been nerfed
-- Strawberry description wording has been changed slightly
-- (Not a change) Bombette has a larger first strike range when upgraded
-- Text when Bombette joins the party now gives the information in the above non-change
+### v1.4.0.3 Changes
+- Dizzy Robotoad can no longer hit the partner with the yellow form's attack
+- Floor 40 boss can no longer hit partners with a certain attack while dizzy
+- Various chapter 7, 8 and postgame enemies are more resistant to Stop (and some are more resistant to other statuses)
+- Question about where Tubba Blubba is has been moved later in the game
+- BP cost of Health Focus and Flower Focus has been reduced to 2
+- Dual Smash sprite has been changed
+- Lava Piranha defense should work slightly better
 
 1.4 is almost certainly going to be the final major update (no 1.5). There really isn't much else to add at this point. 
 (Although, I may decide to make a 2.0 version in the far future that would change almost everything)
