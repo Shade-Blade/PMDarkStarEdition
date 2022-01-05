@@ -28,21 +28,10 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.0.5 Changes
-- Various instances of "Star Energy" have been removed
-- Tutankoopa's magic should now work correctly with dizzy
-- Lava Piranha's defense should be correct at the start of Phase 2
-- Smooch's special effect is now described when you get it (sidenote: if you accidentally define the same string twice, the second one is used)
-- Some kooper shell toss oddities should no longer happen
-- The Master should now count the hits from fast multihit moves correctly
-- Invisibility items now have a new downside
-- Changed one Quizmo question that was wrong
-- Floor 90 boss's healing move can now only be done 1 time instead of infinite number of times (but it always happens under 10 hp)
-- Minor changes to floor 90 boss's effects
-- Fixed(??) the badges turning into letters glitch? (though I have never been able to reproduce that bug)
-- Toadinator purple form now transitions to yellow form if he doesn't do enough damage
-- Toadinator yellow form gains +2 defense instead of just +1 defense per turn
-- Dark Shield now works as described (instead of only giving you the benefit at exactly 0 star power)
+### v1.4.0.5h Changes
+- Bomb Juice description has been corrected
+- Invis item move cost increase is calculated correctly
+- Tasty Tonics now act the same as other status clearing effects
 
 1.4 is almost certainly going to be the final major update (no 1.5). There really isn't much else to add at this point. 
 (Although, I may decide to make a 2.0 version in the far future that would change almost everything)
