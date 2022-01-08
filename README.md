@@ -28,8 +28,14 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.0.5h2 Changes
-- No longer possible to get boosts to be much longer than they are supposed to using [redacted] (Sidenote: This is what happens when you are lazy and use a hacky solution for things)
+### v1.4.1.0 Changes
+- No longer possible to avoid the fp cost increases caused by invis items
+- 1 block in chapter 6 has been unhidden
+- Enemy Lakilester will no longer spawn effects that never despawn using Spiny Surge (Sidenote: effect code is wacky)
+- Hopefully it is no longer possible for partner to be stunlocked in Light Rush Room 5
+- Small visual glitch for one of the bosses in Light Rush Room 5 has been fixed
+- Floor 100 and Light Rush Room 5 should no longer crash when you go invisible against certain attacks
+- Source code updated to v1.4.1.0 (Sidenote: each source code has a link to the previous version of the source)
 
 1.4 is almost certainly going to be the final major update (no 1.5). There really isn't much else to add at this point. 
 (Although, I may decide to make a 2.0 version in the far future that would change almost everything)
