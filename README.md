@@ -28,8 +28,18 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.1.0h Changes
-- Fixed one Quizmo question ("Where is Tubba Blubba now?")
+### v1.4.1.1 Changes
+- Cheep cheep defense table changed slightly (no immunity to water)
+- Red Paragoombas are now correctly weak to throw
+- Chapter 1 Bobuke no longer crashes if you use Flame Smash on it (but why would you do that?)
+- Kent C Koopa no longer hits the partner when he is dizzy (sidenote: dizzy hits use the lucky hit code, and partners normally don't get lucky)
+- Stop Smash now inflicts stop for 4 turns
+- Turn count no longer overflows if a battle takes hundreds of turns (though now it will jump from 120 to 61 instead of going to 121)
+- Softlock problem with a fight outside of Bowser's Castle should be fixed
+- Red Bones are now correctly immune to fire
+- Robotoad (and Toadinator) yellow form should no longer stunlock your partner
+- Toadinator yellow form's attacks are electrical element now
+- Tradeoff Shake now works correctly when buff turn count is higher than 7
 
 1.4 is almost certainly going to be the final major update (no 1.5). There really isn't much else to add at this point. 
 (Although, I may decide to make a 2.0 version in the far future that would change almost everything)
