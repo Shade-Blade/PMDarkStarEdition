@@ -28,10 +28,15 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.1.2 Changes
-- Miniboss that appears in Chapter 6 now has a status table that makes sense (and reacts correctly to dizzy also)
-- Power Rush and Mega Rush should now work properly when you use hp reduction or self damage items
-- Truth Stomp's damage boost should now work correctly (Sidenote: The scripting language is wacky)
-
-1.4 is almost certainly going to be the final major update (no 1.5). There really isn't much else to add at this point. 
-(Although, I may decide to make a 2.0 version in the far future that would change almost everything)
+### v1.4.2.0 Changes
+- Tutankoopa animation bug should be fixed
+- Watt's first strike has been nerfed (2? turns -> 1? turn) (though battle system weirdness seems to increase the duration by 1)
+- Watt's first strike has a much smaller radius
+- Power rush and Mega rush should really be fixed now (Sidenote: Those two badges have code that is overcomplicated)
+- Flower Health now gets converted to Stellar Coins when you have the Greed Stone
+- Slight description change for Yoshi Cookie and Yoshi Biscuit 
+- Dizzy Stomp should no longer despawn if you wait after it falls from the tree
+- Cloud 9 upgrade description has been fixed
+- Typo in Stinky Herb description fixed
+- Slight description change for Flower Power (added some text for one of its properties)
+- Source Code updated to v1.4.2.0
