@@ -28,15 +28,19 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.2.0 Changes
-- Tutankoopa animation bug should be fixed
-- Watt's first strike has been nerfed (2? turns -> 1? turn) (though battle system weirdness seems to increase the duration by 1)
-- Watt's first strike has a much smaller radius
-- Power rush and Mega rush should really be fixed now (Sidenote: Those two badges have code that is overcomplicated)
-- Flower Health now gets converted to Stellar Coins when you have the Greed Stone
-- Slight description change for Yoshi Cookie and Yoshi Biscuit 
-- Dizzy Stomp should no longer despawn if you wait after it falls from the tree
-- Cloud 9 upgrade description has been fixed
-- Typo in Stinky Herb description fixed
-- Slight description change for Flower Power (added some text for one of its properties)
-- Source Code updated to v1.4.2.0
+### v1.4.3.0 Changes (Last update?)
+- Bombette no longer crashes the game when she touches lava while using her ability
+- No longer possible to upgrade your Max HP to 6 (it gets instantly reset to 5 like it should) (Sidenote: getting to 6 max hp seems to break Greed Stone's hp limit on the level up screen)
+- Stellar Power BP Cost decreased (3 -> 2)
+- Flower Power BP Cost increased (2 -> 4)
+- Flower Burst BP Cost increased (1 -> 2)
+- Invis items now increase move costs by 2 when you get 2 turns of invisibility
+- Flower Burst no longer appears when you already have it
+- Added some code from the all bosses mod that should hopefully stop memory crashes with Huff N Puff
+- Tuff Puff invisiblity is no longer determined by rng
+- Merluvlee should no longer give you the badge fortune for Defense Focus if you already have it
+- Obsidian Shroom no longer generates Molten Shrooms when it is a freebie
+- Obsidian Shroom no longer counts towards Item Saver
+- Quake Jump damage has been significantly nerfed (3.0x base jump => ~2.3125x base jump)
+- Quake Jump FP Cost decreased (18 -> 16)
+- Source code updated to 1.4.3.0
