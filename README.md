@@ -28,19 +28,7 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.3.0 Changes (Last update?)
-- Bombette no longer crashes the game when she touches lava while using her ability
-- No longer possible to upgrade your Max HP to 6 (it gets instantly reset to 5 like it should) (Sidenote: getting to 6 max hp seems to break Greed Stone's hp limit on the level up screen)
-- Stellar Power BP Cost decreased (3 -> 2)
-- Flower Power BP Cost increased (2 -> 4)
-- Flower Burst BP Cost increased (1 -> 2)
-- Invis items now increase move costs by 2 when you get 2 turns of invisibility
-- Flower Burst no longer appears when you already have it
-- Added some code from the all bosses mod that should hopefully stop memory crashes with Huff N Puff
-- Tuff Puff invisiblity is no longer determined by rng
-- Merluvlee should no longer give you the badge fortune for Defense Focus if you already have it
-- Obsidian Shroom no longer generates Molten Shrooms when it is a freebie
-- Obsidian Shroom no longer counts towards Item Saver
-- Quake Jump damage has been significantly nerfed (3.0x base jump => ~2.3125x base jump)
-- Quake Jump FP Cost decreased (18 -> 16)
-- Source code updated to 1.4.3.0
+### v1.4.3.0h Changes (Last update???)
+- Fight that occurs as a consequence of doing something in the new area no longer respawns
+- Buzzar wind attack now misses when she is dizzy
+- Quake Jump description has been changed slightly
