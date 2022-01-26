@@ -28,7 +28,13 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.3.0h Changes (Last update???)
-- Fight that occurs as a consequence of doing something in the new area no longer respawns
-- Buzzar wind attack now misses when she is dizzy
-- Quake Jump description has been changed slightly
+### v1.4.4.0 Changes (The end is never the end)
+- Bat enemies that require exact damage now react correctly to multihit attacks (the healing now occurs immediately after they take damage)
+- 1 formation change in Crystal Palace
+- Added trees to path between Koopa Bros Fortress and Shiver Snowfield
+- Pity Flower turns into Crazy Flower when you have the Greed Stone (This should be the last Greed Stone badge replacement)
+- Fixed tattle for White Clubbas
+- Fixed tattle for Magikoopas (They cannot do 2 spells per turn*)
+- Perfect Power BP Cost increase (1 -> 2)
+- Stellar Burst BP Cost reduction (2 -> 1)
+- Source Code updated to v1.4.4.0
