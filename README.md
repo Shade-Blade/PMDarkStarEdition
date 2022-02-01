@@ -28,13 +28,15 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.4.0 Changes (The end is never the end)
-- Bat enemies that require exact damage now react correctly to multihit attacks (the healing now occurs immediately after they take damage)
-- 1 formation change in Crystal Palace
-- Added trees to path between Koopa Bros Fortress and Shiver Snowfield
-- Pity Flower turns into Crazy Flower when you have the Greed Stone (This should be the last Greed Stone badge replacement)
-- Fixed tattle for White Clubbas
-- Fixed tattle for Magikoopas (They cannot do 2 spells per turn*)
-- Perfect Power BP Cost increase (1 -> 2)
-- Stellar Burst BP Cost reduction (2 -> 1)
-- Source Code updated to v1.4.4.0
+### v1.4.5.0 Changes 
+- Color changing shy guys bug in certain formations should no longer happen
+- Invalid targetting for partner first strikes has been fixed (Sidenote: this bug has been known for a long time but I haven't actually tracked it down until now)
+- Bubble Berry now negates the hustle effect
+- Small alteration to Crystal Bristle tattle
+- Corrected the Dark Magikoopa tattle to explain their vanish mechanic
+- Electrical immunity of Bombshell Bills and Bombshell Bill Blasters is now in the tattle
+- Hustle Spell now negates invisibility to prevent you from getting easy hustle repel strategies
+- Hustle Spell now has the same properties as Hustle Drink (negates statuses)
+- New area should no longer crash on certain emulators (pipe bug fixed) (This might make the game more compatible with everdrive?)
+- Source code updated to v1.4.5.0
+- 1 file talking about unused content added to source code
