@@ -28,15 +28,17 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.5.0 Changes 
-- Color changing shy guys bug in certain formations should no longer happen
-- Invalid targetting for partner first strikes has been fixed (Sidenote: this bug has been known for a long time but I haven't actually tracked it down until now)
-- Bubble Berry now negates the hustle effect
-- Small alteration to Crystal Bristle tattle
-- Corrected the Dark Magikoopa tattle to explain their vanish mechanic
-- Electrical immunity of Bombshell Bills and Bombshell Bill Blasters is now in the tattle
-- Hustle Spell now negates invisibility to prevent you from getting easy hustle repel strategies
-- Hustle Spell now has the same properties as Hustle Drink (negates statuses)
-- New area should no longer crash on certain emulators (pipe bug fixed) (This might make the game more compatible with everdrive?)
-- Source code updated to v1.4.5.0
-- 1 file talking about unused content added to source code
+### v1.4.6 Changes 
+- Goompa now has new dialogue for when you beat Jr Troopa 1 when you can't get star points
+- Using hustle drinks (and other similar items) on a turn where you have multiple turns will now act the same as if you have one turn (Thanks Quackles!)
+- Fixed strange interactions with Boo Leaf and Mini Soda
+- Boo Leaf and Mini Soda negative effects can no longer be negated by Feeling Fine
+- Slight decrease in Mega Bolt AC difficulty
+- Mega Bolt cost decrease (7 -> 6 fp)
+- Curse cost decrease (7 -> 6 fp)
+- Air raid cost decrease (6 -> 5 fp)
+- Squirt cost increase (4 -> 5 fp)
+- Early form of a chapter 7 miniboss tattle is no longer broken
+- Fighting the early form of a chapter 7 miniboss should now make him not appear later
+- Quake Jump world description fixed
+- Source code updated to v1.4.6
