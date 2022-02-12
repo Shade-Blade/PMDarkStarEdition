@@ -28,17 +28,11 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.6 Changes 
-- Goompa now has new dialogue for when you beat Jr Troopa 1 when you can't get star points
-- Using hustle drinks (and other similar items) on a turn where you have multiple turns will now act the same as if you have one turn (Thanks Quackles!)
-- Fixed strange interactions with Boo Leaf and Mini Soda
-- Boo Leaf and Mini Soda negative effects can no longer be negated by Feeling Fine
-- Slight decrease in Mega Bolt AC difficulty
-- Mega Bolt cost decrease (7 -> 6 fp)
-- Curse cost decrease (7 -> 6 fp)
-- Air raid cost decrease (6 -> 5 fp)
-- Squirt cost increase (4 -> 5 fp)
-- Early form of a chapter 7 miniboss tattle is no longer broken
-- Fighting the early form of a chapter 7 miniboss should now make him not appear later
-- Quake Jump world description fixed
-- Source code updated to v1.4.6
+### v1.4.7 Changes 
+- Double Dip now works properly with Stellar Coins
+- Half Shroom recipes (and normal Half Shrooms) have been nerfed to be exactly half as powerful as the Dual Shroom recipes
+- Curse cost reduction from 1.4.6 actually is in the game now (7 -> 6 fp)
+- Anti hustle spam fix from 1.4.6 now works even if you use invisibility items
+- Reduced(?) the lag in a few laggy maps
+- Fixed tattles in the Star Temple map
+- Source code updated to v1.4.7
