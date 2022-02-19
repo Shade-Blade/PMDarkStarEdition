@@ -28,11 +28,21 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.7 Changes 
-- Double Dip now works properly with Stellar Coins
-- Half Shroom recipes (and normal Half Shrooms) have been nerfed to be exactly half as powerful as the Dual Shroom recipes
-- Curse cost reduction from 1.4.6 actually is in the game now (7 -> 6 fp)
-- Anti hustle spam fix from 1.4.6 now works even if you use invisibility items
-- Reduced(?) the lag in a few laggy maps
-- Fixed tattles in the Star Temple map
-- Source code updated to v1.4.7
+### v1.4.8 Changes 
+- Boss Rush can no longer be accessed before you have Star Beam (Very significant oversight)
+- Reverted cost 1.4.6 changes for Air Raid (5 -> 6 fp) and Mega Bolt (6 -> 7 fp)
+- Mini Soda can now be combined with invisibility
+- When at 999 coins, Merlee will not do her coin spell
+- When at 999 coins, Mario no longer drops coins when running away
+- Flower Burst now correctly affects partner move costs visually (Sidenote: All the fp cost affecting code in the mod in total is 1752 lines)
+- Really fixed(?) the hustle stacking glitch (for Hustle Drink specifically)
+- Chet Rippo now spawns in Crystal Palace to prevent a theoretical softlock (*though there is basically 0 chance of encountering it normally)
+- Crystal King clone tattle is now identical to the original
+- Crystal King tattle now hints at there being a small difference between the clones and the original
+- Weird text alignment in Crystal King EX's anticheat message has been fixed
+- Changed how Feeling Fine works (this version causes some minor visual bugs though)
+- Quizmo questions answered stat on the stat board now shows answered questions / total questions (64)
+- Sell price of Obsidian Shroom reduced to 20 coins for balance reasons
+- Reduced(?) lag in a few more postgame maps
+- New file coloration for when you have 100% completion (if you already have 100%, just save your file to see the changes) (Note: 100% does count the EX Trophy)
+- Updated Source Code to v1.4.8
