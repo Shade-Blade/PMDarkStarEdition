@@ -28,18 +28,5 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.9 Changes 
-- No longer possible to use Flower Health and Double / Triple Dip to reduce yourself to 0 hp
-- No longer possible to get to 0 hp with Strange Cake
-- Strange Cake now correctly checks against your max FP when used in battle
-- Wall clips in the path between Shiver Mountain and Koopa Bros Fortress have been fixed(?)
-- Weird camera in two of the new Shiver Mountain maps have been fixed
-- Tubba EX's quake move is no longer a contact move
-- Moved Stellar Nova to be closer to Group Focus in the badge menu
-- Base level item menu icon now changes color when Item Saver will give a freebie
-- Added a shoutout to bossbuzz for the new partner's join text
-- Dark Koopatrols are now less vulnerable to stop (turn modifier -1 => -2)
-- Duplighost versions of the new partner should work correctly now(?)
-- Fixed(?) a rare crash with the new partner's first strike
-- Dark Shield no longer crashes the game by doing too much damage when the downside is active
-- Source code updated to v1.4.9 
+### v1.4.9h Changes 
+- Inn cutscene in the new area's town is less broken
