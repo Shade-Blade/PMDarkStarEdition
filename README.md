@@ -28,20 +28,5 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.4.10 Changes 
-- No longer possible to pay for double dip at 0 fp under certain conditions
-- Toad that sells Peach baking items now has correct dialogue
-- Butter description has been fixed
-- Using an FP healing item when at 0 / 0 FP will no longer give you 1 FP (*with other items this can lead to getting a lot more fp than you should)
-- Strange Cake works correctly outside of battle again
-- Half item descriptions have been corrected
-- Negative coin + Flower Coins exploit should no longer work(?)
-- Using HP Pluses when you have 1 max hp should now work as expected (you can now have 6 max hp)
-- Chet Rippo conditions for letting you change stats have been fixed, now you can always reduce your HP to 1 regardless of your max FP and BP
-- New NPC replaces Chet Rippo in Crystal Palace
-- More problems with duplighost version of the new partner should be fixed
-- New partner can no longer first strike the pit minibosses
-- Tattle for the floor 90 miniboss has been corrected
-- Tattle for Dark Clubbas has been slightly changed
-- Tattle for Ztar has been slightly changed
-- Source Code updated to 1.4.10
+### v1.4.10h Changes 
+- 0/0 to 1/0 FP glitch has been actually fixed
