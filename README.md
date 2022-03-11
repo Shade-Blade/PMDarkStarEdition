@@ -26,7 +26,17 @@ Make sure to contact me if you find bugs or problems, or if you have feedback ab
 A few rooms may have an unpausing crash (background may be glitched in them) (In rooms affected by this, displaying the badge menu then unpausing will crash. Let me know if you find rooms with this problem)
 
 ### Known Bugs
+1 fight in the Dark Temple is very laggy on certain emulators
 
-
-### v1.4.10h Changes 
-- 0/0 to 1/0 FP glitch has been actually fixed
+### v1.4.11 Changes 
+- Now possible to see Merlow's badge menu when you have 0 star pieces (*also prevents you from getting locked out of his final reward)
+- New NPC added in Gusty Gulch that can modify your stats
+- New NPC added to the first jail in Bowser's castle (will appear in the epilogue sequence if you have the Badge Stone)
+- Hitbox size of a chapter 7 npc should be fixed now
+- Small change to the animation for a badge in a tree
+- Fixed(?) problems with Red Bones
+- New partner can no longer first strike Robotoad or his upgraded form
+- Some tattles for parts of the floor 100 boss have been fixed
+- One tattle and some dialogue in the new area's town has been changed
+- Lava Piranha EX tattles have been fixed
+- Source code updated to 1.4.11
