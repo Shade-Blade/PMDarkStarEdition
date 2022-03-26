@@ -29,18 +29,19 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 Rare pit crashes
 Rare bug where badges near the end of the badge inventory are converted into letters (associated with using many items in battle)
 
-### v1.4.12 Changes 
-- No longer possible to get out of bounds with Sushie in the Flower Fields waterfall room
-- Win text for Normal Rush now tells you that it unlocks EX Rush
-- Minor text change to new area mayor's dialogue
-- 1 typo fixed in one of the dark palace maps
-- Pit entrance pipe (and various other pipes) should no longer crash on console
-- Gold Koopatrols, Dark Koopatrols (and enemies with similar moves) can now hit you more than 8 times consecutively
-- Partially transparent platforms in the Temple of Darkness have been given more opacity
-- Fixed(?) dark koopatrol crashes
-- Reward for beating Goomba Bros EX after the first time has been changed to Butter
-- Reward for beating Koopa Bros EX after the first time has been changed to Shooting Stars
-- Recoil Throw recoil damage has been fixed (Hammer + 0 if action command was successful, Hammer - 2 if not)
-- Picking up certain cooked items will no longer change what level your boots and hammer are
-- Bizhawk exclusive lag on one of the Dark Temple bosses is finally gone ("Unrelated" fact: giving an enemy 0 max hp somehow causes lag even if health bars are not displayed)
-- Source Code updated to v1.4.12
+### v1.4.13 Changes 
+- Hurricane no longer crashes while enemies with 0 HP are in the battle
+- Item Saver now clarifies that it does not work with Life Shroom
+- Dark Cake now has a cap of 15 turns (in order to avoid bugs caused by the very hacky way item boosts are coded)
+- Small changes to some item descriptions to clarify certain mechanics
+- Flower Coins (Greed Stone) BP cost increased (6 -> 8)
+- Stellar Coins BP cost decreased (5 -> 4) and starting costs are only 3200x instead of 6400x
+- Double Dip BP cost increase (1 -> 2) (Note: the power of items is much higher than in vanilla)
+- Triple Dip BP cost increase (3 -> 5)
+- Flower Coins (Greed Stone) BP cost increased (6 -> 8)
+- Stellar Coins BP cost decreased (5 -> 4) and starting costs are only 3200x instead of 6400x
+- Mega Jump FP Cost decrease (9 -> 7)
+- Mega Smash FP Cost decrease (9 -> 8)
+- Stop Smash FP Cost decrease (6 -> 5)
+- Disabled platforms in one of the Dark Temple rooms have the same opacity as in the other rooms (i.e. aren't invisible anymore)
+- Source Code updated to v1.4.13
