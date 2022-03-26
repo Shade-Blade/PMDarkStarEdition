@@ -38,7 +38,6 @@ Rare bug where badges near the end of the badge inventory are converted into let
 - Stellar Coins BP cost decreased (5 -> 4) and starting costs are only 3200x instead of 6400x
 - Double Dip BP cost increase (1 -> 2) (Note: the power of items is much higher than in vanilla)
 - Triple Dip BP cost increase (3 -> 5)
-- Flower Coins (Greed Stone) BP cost increased (6 -> 8)
 - Stellar Coins BP cost decreased (5 -> 4) and starting costs are only 3200x instead of 6400x
 - Mega Jump FP Cost decrease (9 -> 7)
 - Mega Smash FP Cost decrease (9 -> 8)
