@@ -29,17 +29,12 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 Rare pit crashes
 Rare bug where badges near the end of the badge inventory are converted into letters (associated with using many items in battle)
 
-### v1.4.13 Changes 
-- Hurricane no longer crashes while enemies with 0 HP are in the battle
-- Item Saver now clarifies that it does not work with Life Shroom
-- Dark Cake now has a cap of 15 turns (in order to avoid bugs caused by the very hacky way item boosts are coded)
-- Small changes to some item descriptions to clarify certain mechanics
-- Flower Coins (Greed Stone) BP cost increased (6 -> 8)
-- Stellar Coins BP cost decreased (5 -> 4) and starting costs are only 3200x instead of 6400x
-- Double Dip BP cost increase (1 -> 2) (Note: the power of items is much higher than in vanilla)
-- Triple Dip BP cost increase (3 -> 5)
-- Mega Jump FP Cost decrease (9 -> 7)
-- Mega Smash FP Cost decrease (9 -> 8)
-- Stop Smash FP Cost decrease (6 -> 5)
-- Disabled platforms in one of the Dark Temple rooms have the same opacity as in the other rooms (i.e. aren't invisible anymore)
-- Source Code updated to v1.4.13
+### v1.4.14 Changes 
+- Changed music for Dark Bowser and the final boss of the Light Rush 
+- 	(I never could get the music for the final boss of the Light Rush to work to my standards)
+- Flower Power and Flower Coins interaction now work as described
+- Game no longer crashes when you defeat enemies when you have 0/0 FP
+- Slight text change to Red Boo's menu
+- 1 small clarification to Last Chance's mechanics
+- HP Drain now works with attacks that deal 0 or less damage
+- Source Code updated to v1.4.14
