@@ -26,15 +26,41 @@ Make sure to contact me if you find bugs or problems, or if you have feedback ab
 A few rooms may have an unpausing crash (background may be glitched in them) (In rooms affected by this, displaying the badge menu then unpausing will crash. Let me know if you find rooms with this problem)
 
 ### Known Bugs
-Rare pit crashes
-Rare bug where badges near the end of the badge inventory are converted into letters (associated with using many items in battle)
 
-### v1.4.14 Changes 
-- Changed music for Dark Bowser and the final boss of the Light Rush 
-- 	(I never could get the music for the final boss of the Light Rush to work to my standards)
-- Flower Power and Flower Coins interaction now work as described
-- Game no longer crashes when you defeat enemies when you have 0/0 FP
-- Slight text change to Red Boo's menu
-- 1 small clarification to Last Chance's mechanics
-- HP Drain now works with attacks that deal 0 or less damage
-- Source Code updated to v1.4.14
+
+### v1.5 Changes (Real, actual final update?)
+- Items that inflict statuses on you will no longer deal damage to you if you have negative defense
+- General Guy now has a power bounce cap of 3
+- Lakilester and Lakilulu also now have caps of 3
+- Swoopixes now correctly react to Remedy Guy healing
+- Weird light source in the Pit should no longer appear
+- Dark Power now works as described (No longer gives a larger penalty than described)
+- Dark Bowser now has the correct name and tattle
+- Bowser's special 1/3 max hp mechanic is now a part of the tattle
+- Warp Stone's menu description has been corrected
+- No longer possible to get to 0 hp by using a 1 hp move under certain conditions
+- When using Flower Health, Flower Coins, Stellar Flowers or Stellar Coins, the corresponding payment method is highlighted instead of the original method
+- Source Code updated to v1.5
+
+### Rare Bug Fixes (Fixes to bugs that were in the game for a while)
+- Bombette no longer can spin smash everything with Body Slam
+- Using a Life Shroom while you have 128 badges no longer causes letters to appear in your badge inventory
+- Nonsensical mushroom drops from certain enemies should no longer happen
+- Rare pit crashes should no longer occur
+
+### Balance Changes
+- Hammer Throw now does 1 more damage
+- Parakarry now does 5 damage with Sky Dive at Ultra Rank
+- Crazy Heart BP cost reduction (5 -> 4)
+- Crazy Flower BP cost reduction (5 -> 4)
+- Nerf to Flower Coins with Greed Stone (Note: the "costs go down every turn" mechanic is counted weirdly)
+- Stellar Flowers now lets you pay for star powers at an fp cost equal to (5 -> 4)x SP cost
+- Both hits of Thunder Throw deal 1 more damage (damage done by the move is effectively increased by 2 in most cases)
+- Recoil damage caused by Recoil Throw now properly calculates attack power based off of Stellar Power, Dark Power, and HP Drain (also applies side effects of those)
+- Stellar Nova no longer resets the costs for Stellar Coins
+
+### Light Rush Specific Changes (some fixes and some balance changes)
+- Small effect change to one of the attacks of the final boss of the Light Rush
+- Crashes with the triple multi colored lightning attack in the final boss of the Light Rush no longer happen
+- Light Guardians now attack when you hit them (Increases the difficulty of the 6th fight of the Light Rush)
+- Light Guardian attacks are now elemental
