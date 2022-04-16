@@ -28,13 +28,6 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.5.1 Changes (Really real, actual final update?)
-- Five file name codes have been added (see spoiler chat pins for more information)
-- Internal change in how SP Plus and Stellar Nova are coded
-- Light Rush reward description slightly changed
-- One attack done by final boss of the Light Rush no longer checks for damage reductions
-- Floor 30 miniboss should cause less problems
-- Small wording change to the descriptions of the Dark badges
-- Small wording change to Bowser's tattle
-- Immediately leaving one of the cave rooms after opening one lock no longer makes the remaining lock impossible to interact with
-- Source Code updated to v1.5.1
+### v1.5.1h Changes (Probably final update?)
+- Updating when you have SP Plus equipped should no longer cause problems under any circumstance
+- v1.5.1 source has the fix (Link unchanged)
