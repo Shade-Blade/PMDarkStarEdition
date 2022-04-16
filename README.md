@@ -28,6 +28,8 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.5.1h Changes (Probably final update?)
-- Updating when you have SP Plus equipped should no longer cause problems under any circumstance
-- v1.5.1 source has the fix (Link unchanged)
+### v1.5.2 Changes (Probably really the final update??)
+- While using a file code that gives you all badges, you can no longer lose badges when you give letters to Parakarry
+- 4 more file codes added (see spoiler chat pins for all file code info)
+-		(Message above this is related)
+- Source Code updated to v1.5.2
