@@ -31,5 +31,4 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### v1.5.2 Changes (Probably really the final update??)
 - While using a file code that gives you all badges, you can no longer lose badges when you give letters to Parakarry
 - 4 more file codes added (see spoiler chat pins for all file code info)
--		(Message above this is related)
 - Source Code updated to v1.5.2
