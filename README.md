@@ -28,7 +28,24 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.5.2 Changes (Probably really the final update??)
-- While using a file code that gives you all badges, you can no longer lose badges when you give letters to Parakarry
-- 4 more file codes added (see spoiler chat pins for all file code info)
-- Source Code updated to v1.5.2
+### v1.5.3 Changes (Some bugs need to be fixed, but I'll throw in some other things too)
+- \[Redacted\] is no longer vulnerable to enemy removal moves (Airlift, Up and Away...)
+- Floor 100 boss is now affected by HP Drain and Mega HP Drain
+- A lot of Russ T's dialogue has been changed to give you information about things in the mod (Mechanics and lore)
+- Everdrive crash in one of the Forever Forest rooms should be fixed
+- Destroying General Guy's lightbulb with a successful Megabonk no longer crashes
+- Slight change to the camera motion of Megabonk
+- Anarchy file codes will now allow you to equip badges regardless of your max BP (Note that the badges will still display as greyed out)
+- Yoshi that gives you the Greed Stone now leaves the castle properly and doesn't come back if you leave and reenter the room
+- 1 line change that fixes shroom bunches on certain emulators that can't use the "LWU" instruction
+- 1 typo fix in the alternate version of the Peach Letter
+- 1 typo fix in one of the cave maps
+- Dark Magikoopas no longer cause problems when they cast healing spells
+- Curses will no longer make self status items deal 99 damage
+- 1 small animation fix with the "AntiGuy" code
+- Curse badges no longer stop working when you equip too many badges
+- Description of the "CantWin" file code has been changed to reflect how you can't get the prologue stones in that mode
+- File codes can be found in game (Most of them are in the epilogue)
+- 5 new file codes (4 easy modes and 1 more challenge)
+- You can now access my debug map if you have 100% completion (Hint: it appears in place of another map) (Hint 2: it replaces a map that is new to this mod) (Note: you can get to the non-debug version of the map by going right then back left)
+- Source code updated to v1.5.3 (Unfinished content file has been updated too)
