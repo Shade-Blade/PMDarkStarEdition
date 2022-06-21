@@ -28,6 +28,9 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.5.3h Changes
-- Buzzar no longer softlocks when a sprite swapping file code is used
+### v1.5.3h2 Changes (World's slowest hotfix)
+- Minor change in the AI of the Pit Final Boss
+- Pit Final Boss now properly reacts to Flower Shield
+- Possible fix to everdrive crash where last stand crashes when used?
+- Possible fix to everdrive problem where Haste Step makes you slower
 - Source code has been updated (link unchanged)
