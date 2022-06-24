@@ -28,7 +28,7 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.5.3h3 Changes 
-- Obsidian shroom is no longer broken
-- Items that remove other copies of themselves should no longer remove items next to them in the menu
-- Source code has been updated (link unchanged)
+### v1.5.3h4 Changes 
+- Toadinator is no longer broken (another hidden h2 change)
+- 1 new combination code (Berserk + Anarchy = Berserk2)
+- Source code updated (link unchanged)
