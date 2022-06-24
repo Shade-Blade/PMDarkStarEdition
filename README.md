@@ -28,7 +28,6 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 ### Known Bugs
 
 
-### v1.5.3h4 Changes 
-- Toadinator is no longer broken (another hidden h2 change)
-- 1 new combination code (Berserk + Anarchy = Berserk2)
+### v1.5.3h5 Changes
+- Toadinator healing is really fixed
 - Source code updated (link unchanged)
