@@ -27,6 +27,11 @@ A few rooms may have an unpausing crash (background may be glitched in them) (In
 
 ### Known Bugs
 
+### Discord
+Most discussion about the mod is on the Star Haven discord server. You can also find a lot of useful information about the mod there as well. (website: https://starhaven.dev/)
+
+### Source code
+The link to the source code is somewhere in the mod.
 
 ### v1.5.3h5 Changes
 - Toadinator healing is really fixed
